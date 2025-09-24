@@ -1,0 +1,10 @@
+pymupdf
+sentence-transformers
+transformers
+scikit-learn
+networkx
+python-pptx
+nltk
+pytesseract
+pillow
+torch
